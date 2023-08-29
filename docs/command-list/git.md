@@ -1,0 +1,12 @@
+# Git Commands
+## git init
+## git add
+## git commit
+## git status
+## git log
+## git push
+## git branch
+## git checkout
+## git fetch
+## git merge
+## git pull
