@@ -1,10 +1,10 @@
 # Git Commands
 
-【作業の進め方】
-１．git cloneしてローカルにリポジトリを落としてきて、git initでローカルリポジトリを作る
-２．git branchでブランチを作り、git checkoutでブランチを移動して、その中で編集作業をする
-３．git addしてcommitでローカルリポジトリを保存
-４．git pushでリモートレポジトリを更新
+【作業の進め方】  
+１．git cloneしてローカルにリポジトリを落としてきて、git initでローカルリポジトリを作る  
+２．git branchでブランチを作り、git checkoutでブランチを移動して、その中で編集作業をする  
+３．git addしてcommitでローカルリポジトリを保存  
+４．git pushでリモートレポジトリを更新  
 
 ## git init
 ⇒ローカルリポジトリを新規作成する
